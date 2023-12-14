@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,a as o}from"./app-QLk6GRpW.js";const c={},_=o("p",null,"FnwngPhotography",-1),s=[_];function a(r,l){return t(),n("div",null,s)}const i=e(c,[["render",a],["__file","index.html.vue"]]);export{i as default};
